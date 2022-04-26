@@ -1,3 +1,5 @@
+// Display items from LoacalStorage array of objects
+
 let inverstorsArr = JSON.parse(localStorage.getItem('investorsArr'));
 console.log(inverstorsArr);
 
